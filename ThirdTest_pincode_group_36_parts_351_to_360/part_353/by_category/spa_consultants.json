@@ -238,5 +238,29 @@
     "part_id": "part_353",
     "crawled_at": "2026-09-20 20:42:46",
     "s_no": 47241
+  },
+  {
+    "business_name": "Sunway Wellness",
+    "search_category": "Spa Consultants",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa, Facial spa, Massage spa, Massage therapist, Spa and health club",
+    "pincode": "768031",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Ambabhana S.O",
+    "phone_number": "+91 93702 53809",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot Number 169, Opp Police Training School, RPTS Rd, Laxminagar, Malhotras, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.1212503,
+    "longitude": 79.0592327,
+    "place_id": "ChIJKTLxsWbA1DsRiXPwviInlo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTLxsWbA1DsRiXPwviInlo0",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:45:59",
+    "s_no": 50991
   }
 ]

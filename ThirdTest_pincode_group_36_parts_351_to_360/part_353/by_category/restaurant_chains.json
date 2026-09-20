@@ -1942,5 +1942,29 @@
     "part_id": "part_353",
     "crawled_at": "2026-09-20 20:42:26",
     "s_no": 46578
+  },
+  {
+    "business_name": "@Hungry",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "768033",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Sohella S.O, Bausenmura B.O, Chakarkend B.O",
+    "phone_number": "+91 70084 00946",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 46,
+    "address": "8JMC+WCP, Dhanger, Bargarh, Odisha 768028",
+    "area": "768033",
+    "latitude": 21.334822799999998,
+    "longitude": 83.62103909999999,
+    "place_id": "ChIJcVfi1jNLIToRi88tWb9d-PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVfi1jNLIToRi88tWb9d-PA",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:47:03",
+    "s_no": 52130
   }
 ]
