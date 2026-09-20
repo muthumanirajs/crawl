@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Grocery",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "782002",
+    "circle": "Assam Circle",
+    "region": "Dibrugarh Region",
+    "division": "Nagaon Division",
+    "major_offices": "Haiborgaon S.O, Aibheti B.O, Bihlangani B.O",
+    "phone_number": "+91 86382 53468",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Islampatty, Nagaon, Assam 782002",
+    "area": "Islampatty",
+    "latitude": 26.3502638,
+    "longitude": 92.66531379999999,
+    "place_id": "ChIJ53RBFIsnRTcR85dO1v4W2hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53RBFIsnRTcR85dO1v4W2hQ",
+    "part_id": "part_358",
+    "crawled_at": "2026-09-20 21:21:53"
+  }
+]

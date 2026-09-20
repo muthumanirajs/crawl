@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Alal Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "782102",
+    "circle": "Assam Circle",
+    "region": "Dibrugarh Region",
+    "division": "Nagaon Division",
+    "major_offices": "Barhampur S.O, Bamuni B.O, Kandali B.O",
+    "phone_number": "+91 60008 77792",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Alal Store, Nibukali, Sutar Gaon, Assam 782102",
+    "area": "782102",
+    "latitude": 26.2298919,
+    "longitude": 92.7375215,
+    "place_id": "ChIJb3RQiWMjRTcRScevcBifUtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3RQiWMjRTcRScevcBifUtk",
+    "part_id": "part_358",
+    "crawled_at": "2026-09-20 21:23:35"
+  }
+]
