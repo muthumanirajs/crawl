@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "AG Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "General store",
+    "all_categories": "General store, Designer Clothing Store",
+    "pincode": "783370",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Kokrajhar H.O, Bishmuri B.O, Boro Gendrabil B.O",
+    "phone_number": "+91 87539 69368",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Kokrajher, Titaguri Pt I, Assam 783370",
+    "area": "783370",
+    "latitude": 26.438619799999998,
+    "longitude": 90.2871771,
+    "place_id": "ChIJWeKaDbmKWDcRwh684KdQF7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeKaDbmKWDcRwh684KdQF7Y",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:52:49"
+  }
+]

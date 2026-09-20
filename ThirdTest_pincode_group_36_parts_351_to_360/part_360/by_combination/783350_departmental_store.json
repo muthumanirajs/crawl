@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Joba Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "783350",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Kachugaon S.O, Bairali B.O, Gangia B.O",
+    "phone_number": "+91 98596 39931",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bherveri Bazar, Assam 783337",
+    "area": "783350",
+    "latitude": 26.6128249,
+    "longitude": 90.0667699,
+    "place_id": "ChIJe-dly4dlWDcRXwB5PityPXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-dly4dlWDcRXwB5PityPXM",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:49:21"
+  }
+]

@@ -2158,5 +2158,29 @@
     "part_id": "part_360",
     "crawled_at": "2026-09-20 20:44:04",
     "s_no": 48295
+  },
+  {
+    "business_name": "16 Candles",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "783348",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Bilasipara S.O, Bangalipara B.O, Barkanda B.O",
+    "phone_number": "+91 93954 91265",
+    "website": "https://16candles.in/",
+    "rating": 4.1,
+    "reviews_count": 131,
+    "address": "W/No.7, Kali Mandir Gali, Nayapara, Bilasipara, Assam 783348",
+    "area": "Nayapara",
+    "latitude": 26.2310397,
+    "longitude": 90.23414869999999,
+    "place_id": "ChIJgYFRCcFnWDcRH1WdubUGtnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYFRCcFnWDcRH1WdubUGtnY",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:48:08",
+    "s_no": 51662
   }
 ]
