@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Eat Station",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "768227",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sundargarh Division",
+    "major_offices": "Kusumi S.O, Badbahal B.O, Banke B.O",
+    "phone_number": "+91 78550 79769",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Screen 2, Farm Rd, Modipada, Sambalpur, Odisha 768002",
+    "area": "Modipada",
+    "latitude": 21.4753409,
+    "longitude": 83.96645029999999,
+    "place_id": "ChIJcwBM3BQXIToRN5RiyFTgTH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwBM3BQXIToRN5RiyFTgTH0",
+    "part_id": "part_354",
+    "crawled_at": "2026-09-20 20:48:16"
+  }
+]
