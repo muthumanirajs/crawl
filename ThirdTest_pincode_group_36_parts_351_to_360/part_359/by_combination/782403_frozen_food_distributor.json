@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fooppers",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service, Chicken & Mutton Shop, Meat packer, Meat processor, Meat products store, Meat wholesaler, Poultry store, Seafood market, Seafood wholesaler, Shipping service",
+    "pincode": "782403",
+    "circle": "Assam circle",
+    "region": "N/A",
+    "division": "Guwahati Division",
+    "major_offices": "Dhopguri B.O, Durungpahar B.O, Gandhinagar B.O",
+    "phone_number": "+91 88128 44640",
+    "website": "https://www.fooppers.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Fooppers, House 175, Tolstoy Marg, Hatigaon, Guwahati, Assam 781038",
+    "area": "Hatigaon",
+    "latitude": 26.138325899999998,
+    "longitude": 91.78589819999999,
+    "place_id": "ChIJz7hkPNtZWjcR8IanUnZ5HhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7hkPNtZWjcR8IanUnZ5HhU",
+    "part_id": "part_359",
+    "crawled_at": "2026-09-20 21:09:21"
+  }
+]
