@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cafe Coffee day",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "769016",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Rourkela Division",
+    "major_offices": "Rourkela -16 S.O",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4.2,
+    "reviews_count": 579,
+    "address": "Dua Complex, Panposh Rd, Raghunathpali, Rourkela, Odisha 769012",
+    "area": "Raghunathpali",
+    "latitude": 22.2278348,
+    "longitude": 84.81809009999999,
+    "place_id": "ChIJv0-f_ZIZIDoRp3_mIdvcdQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0-f_ZIZIDoRp3_mIdvcdQc",
+    "part_id": "part_355",
+    "crawled_at": "2026-09-20 20:26:31"
+  }
+]
