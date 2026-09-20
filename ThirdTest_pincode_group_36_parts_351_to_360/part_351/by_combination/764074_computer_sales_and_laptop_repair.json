@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Gadget Zone",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "764074",
+    "circle": "Odisha Circle",
+    "region": "Berhampur Region",
+    "division": "Koraput Division",
+    "major_offices": "Raighar S.O, Bharsundi B.O, Bubei B.O",
+    "phone_number": "+91 94372 86332",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "B - 19, Saheed Nagar Rd, Saheed Nagar, Bhubaneswar, Odisha 751007",
+    "area": "Saheed Nagar",
+    "latitude": 20.2899776,
+    "longitude": 85.8455651,
+    "place_id": "ChIJR8HUGvkJGToRiFRlWAgzedI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8HUGvkJGToRiFRlWAgzedI",
+    "part_id": "part_351",
+    "crawled_at": "2026-09-20 20:30:22"
+  }
+]
