@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Purnima store 1",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "781014",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Guwahati Division",
+    "major_offices": "Guwahati University H.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Roopkuwar housing complex, Khanamukh, Jalukbari, Guwahati, Assam 781014",
+    "area": "Khanamukh, Jalukbari",
+    "latitude": 26.1406617,
+    "longitude": 91.6400051,
+    "place_id": "ChIJ11iZ-AdFWjcRYIbClJZDc3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11iZ-AdFWjcRYIbClJZDc3E",
+    "part_id": "part_356",
+    "crawled_at": "2026-09-20 21:17:49"
+  }
+]
