@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Food Corner",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "782446",
+    "circle": "Assam Circle",
+    "region": "Dibrugarh Region",
+    "division": "Nagaon Division",
+    "major_offices": "Lanka S.O (Nagaon), Anneria B.O, Derapathar B.O",
+    "phone_number": "+91 91015 80761",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "COMPD1465G, Doboka - Diphu Rd, Road, Manja, Assam 782461",
+    "area": "Road",
+    "latitude": 25.9679638,
+    "longitude": 93.4361435,
+    "place_id": "ChIJKYqRxSPtRTcROUAhzXi5yno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYqRxSPtRTcROUAhzXi5yno",
+    "part_id": "part_359",
+    "crawled_at": "2026-09-20 21:18:42"
+  }
+]

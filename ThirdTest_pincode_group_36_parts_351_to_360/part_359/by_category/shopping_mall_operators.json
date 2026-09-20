@@ -742,5 +742,29 @@
     "part_id": "part_359",
     "crawled_at": "2026-09-20 21:15:48",
     "s_no": 48466
+  },
+  {
+    "business_name": "Aturkimi Shopping Centre",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "782460",
+    "circle": "Assam Circle",
+    "region": "Dibrugarh Region",
+    "division": "Nagaon Division",
+    "major_offices": "Diphu H.O",
+    "phone_number": "+91 92073 05365",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "RCRQ+3C6, Diphu, Assam 782460",
+    "area": "782460",
+    "latitude": 25.8401593,
+    "longitude": 93.4385296,
+    "place_id": "ChIJndGmbD7tRTcRjPNgMpNKBPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndGmbD7tRTcRjPNgMpNKBPE",
+    "part_id": "part_359",
+    "crawled_at": "2026-09-20 21:21:28",
+    "s_no": 58223
   }
 ]

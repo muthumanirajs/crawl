@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "John Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "782461",
+    "circle": "Assam Circle",
+    "region": "Dibrugarh Region",
+    "division": "Nagaon Division",
+    "major_offices": "Manja S.O, Amlakhi Bazar B.O, Kheronigaon B.O",
+    "phone_number": "+91 99547 81942",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Under ASTC Complex, Assam Trunk Rd, Tinsukia, Assam 785664",
+    "area": "782461",
+    "latitude": 26.9479701,
+    "longitude": 94.53080829999999,
+    "place_id": "ChIJg0IuWKUvRzcRsHnVzeWef20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0IuWKUvRzcRsHnVzeWef20",
+    "part_id": "part_359",
+    "crawled_at": "2026-09-20 21:21:44"
+  }
+]
