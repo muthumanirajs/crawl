@@ -70,5 +70,29 @@
     "part_id": "part_354",
     "crawled_at": "2026-09-20 20:21:59",
     "s_no": 21663
+  },
+  {
+    "business_name": "Nirvan International Spa Berhampur",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa, Spa and health club, Thai massage therapist, Wellness center",
+    "pincode": "768105",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Jujumura S.O, Bansajal B.O, Basiapara B.O",
+    "phone_number": "+91 97771 66865",
+    "website": "https://nirvaninternationalspa.com/",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "2nd Floor, 7th Heaven Bakery.Landmark Ganjam, galaxy, Trucker stand, Khalasi St, Gandhi Nagar, Brahmapur, Odisha 760001",
+    "area": "Gandhi Nagar",
+    "latitude": 19.311083999999997,
+    "longitude": 84.7872697,
+    "place_id": "ChIJq5CfdiJRPToRbNWuXeBig5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5CfdiJRPToRbNWuXeBig5Y",
+    "part_id": "part_354",
+    "crawled_at": "2026-09-20 20:24:55",
+    "s_no": 28367
   }
 ]

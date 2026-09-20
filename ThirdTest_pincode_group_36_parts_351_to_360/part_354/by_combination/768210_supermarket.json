@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ray General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "768210",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sundargarh Division",
+    "major_offices": "Thelkuli S.O",
+    "phone_number": "+91 84579 55802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Plant, Tareikela, Sambalpur, Odisha 768212",
+    "area": "768210",
+    "latitude": 21.7718943,
+    "longitude": 83.9921183,
+    "place_id": "ChIJo4TgyS7hIDoRGE1dMPEukyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4TgyS7hIDoRGE1dMPEukyo",
+    "part_id": "part_354",
+    "crawled_at": "2026-09-20 20:37:21"
+  }
+]
