@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Asha",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "770033",
+    "circle": "Odisha circle",
+    "region": "Sambalpur Region",
+    "division": "Rourkela Division",
+    "major_offices": "A.Jambahal B.O, Dalki B.O, Indrapur B.O",
+    "phone_number": "+91 74885 00970",
+    "website": "https://hotelasha.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near Police Station, Thanatoli, Baraik, Simdega, Jharkhand 835223",
+    "area": "Thanatoli, Baraik",
+    "latitude": 22.619090999999997,
+    "longitude": 84.5016988,
+    "place_id": "ChIJN_fnq-udijkRb5m8vnqZlW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_fnq-udijkRb5m8vnqZlW4",
+    "part_id": "part_355",
+    "crawled_at": "2026-09-20 20:39:25"
+  }
+]
