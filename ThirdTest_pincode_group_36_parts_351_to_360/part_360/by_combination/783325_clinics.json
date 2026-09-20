@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Heart Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "783325",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Jhagrarpar S.O, Falimari  Pt i B.O, Khalilpur B.O",
+    "phone_number": "+91 94010 88442",
+    "website": "http://www.theheartassam.org/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "RK Mission Rd, Jhagrarpar, Jhagra Pt.I, Dhubri, Assam 783325",
+    "area": "Jhagrarpar",
+    "latitude": 26.0368958,
+    "longitude": 89.9639869,
+    "place_id": "ChIJaayhiFSh4jkR0rZ18lsbS9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaayhiFSh4jkR0rZ18lsbS9M",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:38:11"
+  }
+]

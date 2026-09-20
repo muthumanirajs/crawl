@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Shoe Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "783339",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Alamganj S.O, Boraibari Pt  V B.O, Borshijhora B.O",
+    "phone_number": "+91 91012 66432",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "College Rode, Alomganj, Dhubri, Assam 783339",
+    "area": "783339",
+    "latitude": 26.1387151,
+    "longitude": 90.03890679999999,
+    "place_id": "ChIJOfaIlrx3WDcREOzS2Aoadno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfaIlrx3WDcREOzS2Aoadno",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:44:51"
+  }
+]

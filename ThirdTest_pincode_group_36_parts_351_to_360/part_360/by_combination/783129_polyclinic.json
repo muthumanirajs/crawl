@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "MK Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "783129",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Lakhipur S.O (Goalpara), Ambari Bazar B.O, Aolatoli B.O",
+    "phone_number": "+91 70022 98744",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Folimari Rd, Lakhipur, Assam 783129",
+    "area": "783129",
+    "latitude": 26.028992199999998,
+    "longitude": 90.2974016,
+    "place_id": "ChIJL4CykkwVWDcR17c6QZLfgzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4CykkwVWDcR17c6QZLfgzQ",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:30:33"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Anwar Meat Shop",
+    "search_category": "Shops",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "783301",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Goalpara Division",
+    "major_offices": "Dhubri H.O, Bhotgaon B.O, Dhubri Bazar S.O",
+    "phone_number": "+91 70020 10599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Eddgah Road, Boro Bazar, Dhubri, Assam 783301",
+    "area": "Boro Bazar",
+    "latitude": 26.0165723,
+    "longitude": 89.98323119999999,
+    "place_id": "ChIJC6RmUz2h4jkRct2xlXwhuWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6RmUz2h4jkRct2xlXwhuWE",
+    "part_id": "part_360",
+    "crawled_at": "2026-09-20 20:36:28"
+  }
+]
