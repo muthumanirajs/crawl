@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "John Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "781347",
+    "circle": "Assam Circle",
+    "region": "N/A",
+    "division": "Nalbari Division",
+    "major_offices": "Kamarkuchi S.O, Arangmow B.O, Athgharia B.O",
+    "phone_number": "+91 99547 81942",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 71,
+    "address": "Under ASTC Complex, Assam Trunk Rd, Tinsukia, Assam 785664",
+    "area": "781347",
+    "latitude": 26.9479701,
+    "longitude": 94.53080829999999,
+    "place_id": "ChIJg0IuWKUvRzcRsHnVzeWef20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0IuWKUvRzcRsHnVzeWef20",
+    "part_id": "part_358",
+    "crawled_at": "2026-09-20 20:58:29"
+  }
+]
