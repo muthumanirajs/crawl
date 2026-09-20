@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Dairy, Milk delivery service",
+    "pincode": "768025",
+    "circle": "Odisha circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Basantpur B.O, Kalamati B.O, C.A. Chiplima S.O",
+    "phone_number": "+91 94371 49197",
+    "website": "https://www.hapdaily.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Swati Complex, No. 2 & 3, SH10, near Sony Service Center, Govindtola, Charbati, Sambalpur, Odisha 768005",
+    "area": "Govindtola, Charbati",
+    "latitude": 21.4566601,
+    "longitude": 83.9862807,
+    "place_id": "ChIJ4wUsOTcVIToR2GEfyfF53Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wUsOTcVIToR2GEfyfF53Wc",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:41:44"
+  }
+]

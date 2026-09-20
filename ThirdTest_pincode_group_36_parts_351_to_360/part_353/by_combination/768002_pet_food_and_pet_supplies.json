@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "FIFI's The Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "768002",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Mudipara S.O",
+    "phone_number": "+91 79781 56467",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "Brajrajnagar, Odisha 768216",
+    "area": "768002",
+    "latitude": 21.8598002,
+    "longitude": 83.923998,
+    "place_id": "ChIJ8UvVdg_dIDoRx9jCEVkMVno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UvVdg_dIDoRx9jCEVkMVno",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:34:15"
+  }
+]

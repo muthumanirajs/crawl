@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Aroma Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "768002",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Mudipara S.O",
+    "phone_number": "+91 82498 60503",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 147,
+    "address": "NH6, CHOCK, Remed, Odisha 768006",
+    "area": "768002",
+    "latitude": 21.5006694,
+    "longitude": 83.9487686,
+    "place_id": "ChIJVSmR2jYWIToR5J0yYNtzMm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSmR2jYWIToR5J0yYNtzMm0",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:34:16"
+  }
+]

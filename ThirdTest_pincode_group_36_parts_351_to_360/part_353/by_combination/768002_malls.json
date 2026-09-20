@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "City Mall",
+    "search_category": "Malls",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "768002",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Sambalpur Division",
+    "major_offices": "Mudipara S.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Farm Rd, Modipada, Sambalpur, Odisha 768002",
+    "area": "Modipada",
+    "latitude": 21.4754035,
+    "longitude": 83.96601319999999,
+    "place_id": "ChIJwyx7ImUWIToRjY1r0X8QCCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyx7ImUWIToRjY1r0X8QCCA",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:34:54"
+  }
+]

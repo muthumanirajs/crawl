@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cyber Cafe 2",
+    "search_category": "Internet Cafe",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "767070",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Balangir Division",
+    "major_offices": "Of Badmal S.O",
+    "phone_number": "+91 81442 83721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Post Office, Sikuan, Mursing, Odisha 767029",
+    "area": "767070",
+    "latitude": 20.5659132,
+    "longitude": 83.379825,
+    "place_id": "ChIJNxovd1FtJDoRw7htWrqNDnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxovd1FtJDoRw7htWrqNDnQ",
+    "part_id": "part_353",
+    "crawled_at": "2026-09-20 20:32:31"
+  }
+]
